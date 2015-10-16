@@ -58,6 +58,8 @@
      <Compile Include="Assets\_Scripts\AsteroidScript.cs" />
      <Compile Include="Assets\_Scripts\DestroyByBoundry.cs" />
      <Compile Include="Assets\_Scripts\DestroyByContact.cs" />
+     <Compile Include="Assets\_Scripts\DestroyByTime.cs" />
+     <Compile Include="Assets\_Scripts\GameController.cs" />
      <Compile Include="Assets\_Scripts\Mover.cs" />
      <Compile Include="Assets\_Scripts\PlayerController.cs" />
  <Reference Include="UnityEngine.Networking">
